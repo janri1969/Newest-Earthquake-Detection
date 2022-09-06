@@ -1,6 +1,6 @@
 """
 Newest Earthquake Detection Aplication
-Modularisasi with function
+Modularisasi with function1
 """
 
 
